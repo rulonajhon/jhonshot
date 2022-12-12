@@ -537,6 +537,7 @@ opacity: 0;
     text-align: center;
 }
 .contact-section .section-title h1{
+    padding-top: 80px;
     color: #F7F7F7;
 }
 .contact-section .section-title h1::before{
